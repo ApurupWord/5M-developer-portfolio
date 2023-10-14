@@ -31,7 +31,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 51px 90px;
+    padding: 51px 90px;
 }
 
 .nav-title {
@@ -79,6 +79,9 @@ nav li {
     height: 64px;
     border-radius: 5px;
     border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+    
+    
 
 }
 
@@ -186,7 +189,8 @@ main {
 }
 
 .resume-button {
-    margin-top: 50px;
+    margin-top: 50px ;
+    margin-bottom: 80px;
     text-align: center;
 }
 
